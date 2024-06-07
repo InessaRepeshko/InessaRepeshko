@@ -8,7 +8,11 @@
 
 ### Here are some of the completed projects:
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Strawberry-Team&repo=ucode-connect-Marathon-C-endgame&text_color=0A3069&title_color=0969DA">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Strawberry-Team&repo=ucode-connect-Track-C-uchat&text_color=0A3069&title_color=0969DA">
+  <a href="https://github.com/Strawberry-Team/ucode-connect-Marathon-C-endgame" target="endgame">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Strawberry-Team&repo=ucode-connect-Marathon-C-endgame&text_color=0A3069&title_color=0969DA">
+  </a>
+  <a href="https://github.com/Strawberry-Team/ucode-connect-Track-C-uchat" target="uchat">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Strawberry-Team&repo=ucode-connect-Track-C-uchat&text_color=0A3069&title_color=0969DA">
+  </a>
 </div>
 
