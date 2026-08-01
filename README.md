@@ -5,7 +5,6 @@
 
 <img src="https://github-stats-extended-git-masterorgs-github-stats-extended-team.vercel.app/api/top-langs/?username=InessaRepeshko&include_orgs=true&langs_count=10&layout=compact&show_icons=true&theme=transparent&text_color=003366&title_color=660037">
 
-<!-- 
 ### Here are some of the completed projects:
 <div align="left">
   <a href="https://github.com/Strawberry-Team/ucode-connect-Marathon-C-endgame" target="_blank">
@@ -18,4 +17,3 @@
     <img src="https://github-stats-extended.vercel.app/api/pin/?username=InessaRepeshko&repo=java-application-metro-stations&text_color=003366&title_color=660037">
   </a>
 </div>
--->
