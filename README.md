@@ -10,12 +10,28 @@
   </a>
 </div>
 
+
+
 <img src="https://readme-typing-svg.demolab.com?font=Robo&weight=600&size=20&duration=3000&pause=300&color=660037&multiline=true&center=true&vCenter=true&width=1000&height=50&lines=Here+are+some+of+the+completed+projects+%F0%9F%91%87" alt="Header" />
 
 <div align="center">
-  <a href="https://github.com/Strawberry-Team/Univent-backend" target="_blank">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=InessaRepeshko&repo=Strawberry-Team/Univent-backend&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_authored,prs_commented,prs_reviewed,issues_authored,issues_commented&show_owner=true&text_color=003366&title_color=660037&border_color=660037&border_radius=20" />
-  </a>
+  <div align="center">
+    <h3>
+      <a href="https://univent-platform.vercel.app/" target="_blank">
+        🎫 "Univent" Web Ticketing Platform
+      </a>
+    </h3>
+    <a href="https://github.com/Strawberry-Team/Univent-frontend" target="_blank">
+      <img src="https://github-stats-extended.vercel.app/api/pin/?username=InessaRepeshko&repo=Strawberry-Team/Univent-frontend&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_authored,prs_commented,prs_reviewed,issues_authored,issues_commented&show_owner=true&text_color=003366&title_color=660037&border_color=660037&border_radius=20" />
+    </a>
+    <a href="https://github.com/Strawberry-Team/Univent-backend" target="_blank">
+      <img src="https://github-stats-extended.vercel.app/api/pin/?username=InessaRepeshko&repo=Strawberry-Team/Univent-backend&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_authored,prs_commented,prs_reviewed,issues_authored,issues_commented&show_owner=true&text_color=003366&title_color=660037&border_color=660037&border_radius=20" />
+    </a>
+    <a href="https://github.com/Strawberry-Team/Univent-admin" target="_blank">
+      <img src="https://github-stats-extended.vercel.app/api/pin/?username=InessaRepeshko&repo=Strawberry-Team/Univent-admin&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_authored,prs_commented,prs_reviewed,issues_authored,issues_commented&show_owner=true&text_color=003366&title_color=660037&border_color=660037&border_radius=20" />
+    </a>
+  </div>
+  <br />
   
   <a href="https://github.com/Strawberry-Team/Endgame" target="_blank">
     <img src="https://github-stats-extended.vercel.app/api/pin/?username=InessaRepeshko&repo=Strawberry-Team/Endgame&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_authored,prs_commented,prs_reviewed,issues_authored,issues_commented&show_owner=true&text_color=003366&title_color=660037&border_color=660037&border_radius=20" />
